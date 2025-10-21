@@ -1407,7 +1407,6 @@ def difference_between_expressions(expr1: str, expr2: str):
     - Shows their difference
     - If difference is zero, adds clarifying message about their equivalence
     """
-    from mistakes import extract_math_expression, calculate
     expr1_norm = extract_math_expression(expr1)
     expr2_norm = extract_math_expression(expr2)
 
