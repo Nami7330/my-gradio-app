@@ -1,6 +1,5 @@
 from transformers import pipeline
 import re
-from word2number import w2n
 import sympy as sp
 import math
 import string
