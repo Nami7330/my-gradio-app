@@ -7,11 +7,7 @@ flask>=2.2.2
 pytest>=7.2.0
 black>=22.12.0
 gradio>=5.35.0
-<<<<<<< HEAD
 scikit-learn
-=======
-scikit-learn
->>>>>>> 41ab43495635ddc4f1d1ae663c32b4239b8bcf3f
 pint
 requests
 python-dateutil
