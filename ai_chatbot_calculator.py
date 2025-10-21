@@ -4,9 +4,7 @@ from word2number import w2n
 import sympy as sp
 import math
 import string
-from sklearn_intent_backup import sklearn_predict_intent
 from pint import UnitRegistry
-import requests
 from datetime import datetime, timedelta
 try:
     from dateutil import parser as date_parser
